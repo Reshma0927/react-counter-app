@@ -44,6 +44,14 @@ A modern and responsive Counter App built using **React.js**. This project was c
 
 This project helped me understand how React state works and how to build interactive user interfaces without following a tutorial.
 
+## Live Demo
+
+https://react-project-counter-app.vercel.app/
+
+## GitHub Repository
+
+https://github.com/Reshma0927/react-counter-app
+
 
 ## Author
 
